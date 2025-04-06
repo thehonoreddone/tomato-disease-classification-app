@@ -1,0 +1,4 @@
+tensorflow==2.13.1
+google-cloud-storage
+Pillow
+numpy
